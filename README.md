@@ -47,3 +47,41 @@ If you are going to run more memory/processor intensive programs then increase.
 8. Go to Settings
 
 ![new vm](https://github.com/ntieu4328/Virtual-Box-Kali-Linux/assets/156137990/bcda14d8-1d70-49da-b6b6-46e25123c613)
+
+9. Go storage --> Click "Empty" --> Click CD icon --> Choose Disk File --> Select Kali Linux iso file
+
+![select kali iso](https://github.com/ntieu4328/Virtual-Box-Kali-Linux/assets/156137990/b85aa655-85bb-4e5c-8266-5b5a76e58757)
+
+<b>Optional:</b>
+If you want to make it so you can copy and paste commands or drag and drop files into the VM from the actual OS then follow these steps:
+Settings --> General --> Advanced --> Shared Clipboard: Bidirectional --> Drag'n'Drop: Bidirectional
+
+10. Start the Kali Linux Virtual Machine
+
+   - 
+
+12. Choose Graphical install:
+
+![Graphical Install](https://github.com/ntieu4328/Virtual-Box-Kali-Linux/assets/156137990/178a3e3c-797c-4dae-85e2-cbea7230e697)
+
+12. Now it will go through the setup process of the actual operating system:
+<b>Tailor the settings to what you need</b>
+- Language: English
+- Location: United States
+- Configure the keyboard: American English
+- Hostname: kali
+- Domain name: kali
+- Full name for the new user: user
+- Username for your account: user
+- Password: **********
+- Select your time zone: Pacific
+- Partition disks: Guided - use entire disk
+- Select disk to partition: Choose the disk
+- Partitioning scheme: All files in one partition
+- Partition disks: Finish partitioning and write changes to disk
+- Write the changes to disks?: Yes
+- Choose software to install: Leave default
+- Install the GRUB boot loader to your primary drive?: Yes
+- Device for boot loader installation: Second option
+
+<b>You have now made a Kali Linux virtual machine using VirtualBox!!!</b>
