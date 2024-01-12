@@ -35,3 +35,15 @@ As you can see, I already have 2 virtual machines ready. I will walk you through
 
 <b>Change the Base Memory and Processors to anywhere in the green depending on what you are going to be doing on the VM.</b>
 If you are going to run more memory/processor intensive programs then increase.
+
+6. Virtual Hard Disk Page:
+   
+![virtual hard disk](https://github.com/ntieu4328/Virtual-Box-Kali-Linux/assets/156137990/103990b3-098d-430e-9013-f133f185be15)
+
+<b>20.00 GB should be enough. If you want to increase or decrease the disk space go ahead.</b>
+
+7. Press "Finish"
+   
+8. Go to Settings
+
+![new vm](https://github.com/ntieu4328/Virtual-Box-Kali-Linux/assets/156137990/bcda14d8-1d70-49da-b6b6-46e25123c613)
