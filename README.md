@@ -58,9 +58,7 @@ Settings --> General --> Advanced --> Shared Clipboard: Bidirectional --> Drag'n
 
 10. Start the Kali Linux Virtual Machine
 
-   - 
-
-12. Choose Graphical install:
+11. Choose Graphical install:
 
 ![Graphical Install](https://github.com/ntieu4328/Virtual-Box-Kali-Linux/assets/156137990/178a3e3c-797c-4dae-85e2-cbea7230e697)
 
