@@ -11,6 +11,10 @@ The project consists of creating a Kali Linux home lab environment on a virtual 
 - <b>VirtualBox</b>
 - <b>Kali Linux</b>
 
+<h2>Table of contents:</h2>
+
+[Walk-through](#walk-through)
+
 <h2>Walk-through:</h2>
 
 1. Download [VirtualBox](https://www.virtualbox.org/).
