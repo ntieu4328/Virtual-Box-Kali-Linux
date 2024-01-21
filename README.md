@@ -2,7 +2,7 @@
 
 <b>Disclaimer: This is only for the Kali Linux OS. If you want to install a different OS then adjust the settings for that specific OS.</b>
 
-<h2>Description</h2>
+<h2>Description:</h2>
 The project consists of creating a Kali Linux home lab environment on a virtual machine using VirtualBox. You can use this virtual machine to learn test cybersecurity tools and learn new cybersecurity techniques.
 <br/>
 
