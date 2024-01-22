@@ -86,4 +86,4 @@ Settings --> General --> Advanced --> Shared Clipboard: Bidirectional --> Drag'n
 - Install the GRUB boot loader to your primary drive?: Yes
 - Device for boot loader installation: Second option
 
-<b>You have now made a Kali Linux virtual machine using VirtualBox!!!</b>
+<b>Kali Linux virtual machine using VirtualBox has been created!!!</b>
