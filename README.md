@@ -85,5 +85,8 @@ Settings --> General --> Advanced --> Shared Clipboard: Bidirectional --> Drag'n
 - Choose software to install: Leave default
 - Install the GRUB boot loader to your primary drive?: Yes
 - Device for boot loader installation: Second option
+- right ctrl + f to make full screen
+- in terminal `sudo apt update` & `sudo apt upgrade`
+- Machine -> Take Snapshot
 
 <b>Kali Linux virtual machine using VirtualBox has been created!!!</b>
