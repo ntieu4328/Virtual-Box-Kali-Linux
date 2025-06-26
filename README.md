@@ -89,4 +89,11 @@ Settings --> General --> Advanced --> Shared Clipboard: Bidirectional --> Drag'n
 - in terminal `sudo apt update` & `sudo apt upgrade`
 - Machine -> Take Snapshot
 
+Network Settings:
+- Settings -> Network
+- NAT (default) - access internet, but home network devices can't see VM
+- Bridged Adapter - can connect to devices on home network
+- Host-only adapter - can only communicate with host machine not home network
+- Internal Network - can only communicate with VMs on same internal network
+
 <b>Kali Linux virtual machine using VirtualBox has been created!!!</b>
